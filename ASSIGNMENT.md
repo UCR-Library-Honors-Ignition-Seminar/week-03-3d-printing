@@ -40,11 +40,10 @@ Write a **~300-word reflection** using the [reflection template](reflection-temp
 
 ## Submission Instructions
 
-1. Create a `week-03/` folder in your GitHub Classroom repo
-2. Upload your process PDF and model file (or Tinkercad link in `links.md`)
-3. Upload a photo of the printed object
-4. Create `week-03/reflection.md`
-5. Commit and submit repo URL on Canvas
+1. Upload your process PDF and model file (or Tinkercad link in `links.md`)
+2. Upload a photo of the printed object
+3. Create `reflection.md`
+4. Commit and submit repo URL on Canvas
 
 ---
 
